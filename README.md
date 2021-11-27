@@ -80,7 +80,9 @@ Sample for Spring Cloud:
 - [整合Spring Cloud Stream Binder与GCP Pubsub进行消息发送与接收](https://www.pkslow.com/archives/spring-cloud-stream-binder-pubsub)
 - [整合Spring Cloud Stream Binder与Kafka进行消息发送与接收](https://www.pkslow.com/archives/spring-cloud-stream-binder-kafka)
 
-
+---
+### 使用备注
+> 参考此案例的的配置，的确在自己的生产环境中，将 cloud stream kafka 集成成功，这的确是一个值得收藏的项目，非常感谢原作者。
 
 ### spring-cloud-data-flow & cloudfoundry-uaa-server & ldap-server
 
